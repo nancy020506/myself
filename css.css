@@ -1,0 +1,44 @@
+body{
+	background-color: blue;
+	background-image: url("航天.jpg"); 
+	background-size: cover;
+	background-position: 
+}
+div{
+	position: relative;
+
+	top: 20px
+}
+img{
+	height: 100px;
+	width: 100px;
+	margin:auto;
+	border-radius: 50%;
+	position: relative;
+	left : 200px;
+}
+p{ 
+     text-align: center;
+  }
+#container{
+	background-color: white;
+	opacity: 0.7;
+
+	height: 500px;
+	width:  500px;
+
+	margin: auto;
+	top: 100px;
+	border-radius:50px;
+}
+#titel p{
+	font-size: 40px;
+	font-weight: bold;
+	font-family: "宋体"
+}
+#instruction{
+
+}
+#title:hover{
+	color: #2b5cb4;
+}
